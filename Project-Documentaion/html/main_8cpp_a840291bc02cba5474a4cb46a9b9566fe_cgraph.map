@@ -1,4 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node1" title="This is the entry point of the application." alt="" coords="5,5,60,32"/>
-<area shape="rect" id="node2" href="$lib_2calc_8cpp.html#a5ceb2172cbc407c45e7e9f2d22a2b5c1" title="This is a simple function that adds two numbers and returns thier summation." alt="" coords="108,5,159,32"/>
-</map>

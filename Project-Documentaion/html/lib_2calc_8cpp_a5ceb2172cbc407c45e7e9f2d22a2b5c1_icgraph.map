@@ -1,5 +1,0 @@
-<map id="sum" name="sum">
-<area shape="rect" id="node1" title="This is a simple function that adds two numbers and returns thier summation." alt="" coords="108,31,159,57"/>
-<area shape="rect" id="node2" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="This is the entry point of the application." alt="" coords="5,5,60,32"/>
-<area shape="rect" id="node3" href="$test_8cpp.html#a3bb4bf9fdf78928b94376eec47b8306b" title="Construct a new TEST suit with TESTCASE1." alt="" coords="5,56,60,83"/>
-</map>
