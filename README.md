@@ -38,11 +38,10 @@ and finally, run the ouput file:
 ```bash
     ./output
 ```
-**2.** Now you can repeate the steps to build the unit test, So in the project directory, move to the unitTest directory and remove any existing build files.
+**2.** Now you can repeate the steps to build the unit test, So in the project directory, move to the unitTest directory and then to the build directory.
 using the following commands:
 ```bash
     cd unitTest/build
-    rm -r *
 ```
 **3.** In the build directory run the following command to generate the build system of the unit test using CMake:
 ```bash
