@@ -10,8 +10,8 @@ In this project we're going to use GTest to apply unit test to our project and t
 
 **GTest (Google Test)**: Install GTest on your host machine, using the following commands:
 ```bash
-    sudo git-apt install libgtest-dev
-    sudo git-apt install libgmock-dev
+    sudo apt-get install libgtest-dev
+    sudo apt-get install libgmock-dev
 ```
 
 ### Installation
