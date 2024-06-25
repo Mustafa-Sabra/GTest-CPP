@@ -1,0 +1,6 @@
+/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/build/CMakeFiles/output.dir
+/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/build/CMakeFiles/edit_cache.dir
+/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/build/CMakeFiles/rebuild_cache.dir
+/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/build/lib/CMakeFiles/calc.dir
+/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/build/lib/CMakeFiles/edit_cache.dir
+/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/build/lib/CMakeFiles/rebuild_cache.dir
