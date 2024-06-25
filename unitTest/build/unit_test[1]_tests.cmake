@@ -1,0 +1,7 @@
+add_test( TEST_SUIT1.TESTCASE1 [==[/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build/unit_test]==] [==[--gtest_filter=TEST_SUIT1.TESTCASE1]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TEST_SUIT1.TESTCASE1 PROPERTIES WORKING_DIRECTORY [==[/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( TEST_SUIT1.TESTCASE2 [==[/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build/unit_test]==] [==[--gtest_filter=TEST_SUIT1.TESTCASE2]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TEST_SUIT1.TESTCASE2 PROPERTIES WORKING_DIRECTORY [==[/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( TEST_SUIT1.TESTCASE3 [==[/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build/unit_test]==] [==[--gtest_filter=TEST_SUIT1.TESTCASE3]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TEST_SUIT1.TESTCASE3 PROPERTIES WORKING_DIRECTORY [==[/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( unit_test_TESTS TEST_SUIT1.TESTCASE1 TEST_SUIT1.TESTCASE2 TEST_SUIT1.TESTCASE3)

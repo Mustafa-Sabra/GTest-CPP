@@ -1,0 +1,5 @@
+if(EXISTS "/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build/unit_test[1]_tests.cmake")
+  include("/home/mustafa_sabra/Documents/Gtest Labs/Gtest lab1/unitTest/build/unit_test[1]_tests.cmake")
+else()
+  add_test(unit_test_NOT_BUILT unit_test_NOT_BUILT)
+endif()

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/unit_test.dir/calc.cpp.o CMakeFiles/unit_test.dir/test.cpp.o -o unit_test  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgmock_main.a /usr/lib/x86_64-linux-gnu/libgmock.a /usr/lib/x86_64-linux-gnu/libgtest.a 

@@ -1,0 +1,9 @@
+You are attempting to compile C++ code (in gtest.h) with a C compiler. (CMake chooses a C compiler for source files whose names end with .c.) C and C++ are different languages, not, generally speaking, source compatible in either direction. You must compile C with a C compiler, and C++ with a C++ compiler.
+
+If considerable care is exercised then it is possible to write code in the shared subset of the two languages or that use the preprocessor to adapt to the chosen language, but this is uncommon, except sometimes for headers that declare functions and external objects having (from the C++ perspective) C linkage. That evidently is not how your gtest.h is written.
+
+Your main options are:
+
+- convert your project to a C++ project. This has significant implications, so do not do it lightly.
+- write C++ tests for your C code. This may or may not be viable.
+- choose a C test framework instead of C++-specific GTest.
