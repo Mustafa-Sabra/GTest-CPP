@@ -53,7 +53,7 @@ using the following commands:
 ```bash
     make
 ```
-**5.** After successful compilation, the executable file will be generated. now you can run the executable and observe which test cases passed and which failed, run the following command:
+**5.** After successful build, the executable file will be generated. now you can run the executable and observe which test cases passed and which failed, using following command:
 ```bash
     ./unit-test
 
